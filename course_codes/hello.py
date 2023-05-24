@@ -1,0 +1,2 @@
+m="hello"
+print(m)
