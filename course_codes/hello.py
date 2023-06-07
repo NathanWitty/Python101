@@ -1,2 +1,2 @@
-m="hello"
+m = "hello"
 print(m)
